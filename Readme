@@ -1,0 +1,22 @@
+# JavaScript Game: Owlbear Adventure
+
+## Description
+Owlbear Adventure is a simple 2D game where you control an Owlbear through a forest. Avoid obstacles and collect plants for points!
+
+## How to Play
+- Use the arrow keys to move the Owlbear.
+- Collect plants to earn points.
+- Avoid running into bushes or grass.
+
+
+## Technologies Used
+- HTML5 Canvas
+- JavaScript
+
+## Setup
+1. Clone this repository.
+2. Open `Owlbear.html` in your web browser.
+3. Start playing!
+
+
+Enjoy Owlbear Adventure!
